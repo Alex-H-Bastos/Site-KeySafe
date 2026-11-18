@@ -1,31 +1,3 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+O KeySafe é um gerenciador de senhas open source para Android focado em privacidade. Através de armazenamento local e criptografia robusta, ele oferece um ambiente seguro para organizar suas credenciais sem a necessidade de conexão com a internet ou contas em nuvem.
+Projeto Integrador III — CEUB
+Aplicativo Android desenvolvido em Kotlin para armazenar e gerenciar credenciais de forma local e criptografada, sem depender de conexão com a internet. O projeto prevê autenticação biométrica, geração de senhas fortes e uma interface para organizar credenciais com segurança.
