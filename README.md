@@ -4,9 +4,6 @@ Projeto Integrador III — CEUB
 
 Aplicativo Android desenvolvido em **Kotlin** para armazenar e gerenciar credenciais de forma local e criptografada, sem depender de conexão com a internet. O projeto prevê autenticação biométrica, geração de senhas fortes e uma interface para organizar credenciais com segurança.
 
-> **Professor(a):** Consulte as [Diretrizes Institucionais do CEUB](https://github.com/CAMPUSCEUB/DIRETRIZES), incluindo o [Guia dos Professores](https://github.com/CAMPUSCEUB/DIRETRIZES/guias/github-enterprise-campus-ceub.md).
->
-> **Estudante:** Consulte o [Guia dos Alunos](docs/guia-alunos.md).
 
 ## Identificação do repositório
 
@@ -61,16 +58,6 @@ A proposta atende usuários que desejam centralizar senhas em um único aplicati
 **Não funcionais:** confidencialidade dos dados, armazenamento criptografado, usabilidade em dispositivos Android compatíveis, desempenho adequado e ausência de dependência de serviços externos para as operações principais.
 
 Os critérios detalhados de aceitação e as prioridades devem constar em [docs/requisitos.md](docs/requisitos.md).
-
-## Estrutura deste repositório
-
-| Item | Link |
-| --- | --- |
-| Backlog | [Adicionar link para o GitHub Project] |
-| Sprints | [sprints/README.md](sprints/README.md) |
-| Entregas | [entregas/README.md](entregas/README.md) |
-| Requisitos | [docs/requisitos.md](docs/requisitos.md) |
-| Arquitetura | [docs/arquitetura.md](docs/arquitetura.md) |
 
 ## Status
 
